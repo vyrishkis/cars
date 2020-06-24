@@ -194,3 +194,5 @@ init()
 // busena()
 // drive()
 //gito testas
+console.log('cars change test');
+
