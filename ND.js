@@ -194,4 +194,3 @@ init()
 // busena()
 // drive()
 //gito testas
-console.log('hopa');
